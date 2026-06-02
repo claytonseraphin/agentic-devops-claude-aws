@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(AWS_PROFILE=clayseraphin aws sts get-caller-identity *)"
+    ]
+  }
+}
